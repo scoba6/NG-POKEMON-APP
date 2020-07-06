@@ -18,7 +18,7 @@ export class AuthService {
         );
     }
   
-    // Une méthode de déconnexion
+  //  // Une méthode de déconnexion
     logout(): void {
         this.isLoggedIn = false;
     }
